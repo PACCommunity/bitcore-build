@@ -62,7 +62,6 @@
     "lodash": "^4.17.4",
     "mocha": "^3.2.0",
     "plato": "^1.7.0",
-    "run-sequence": "^1.2.2",
-    "zuul": "^3.11.1"
+    "run-sequence": "^1.2.2"
   }
 }
